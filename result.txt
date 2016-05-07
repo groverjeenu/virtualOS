@@ -1,0 +1,25 @@
+All time are in microseconds
+
+Process 4925:
+Response Time: 8
+TurnAround Time: 161306175
+WaitingTime: 3156423
+
+Process 4928:
+Response Time: 1355054
+TurnAround Time: 159769841
+WaitingTime: 10171870
+
+Process 4949:
+Response Time: 64898
+TurnAround Time: 428057148
+WaitingTime: 8510194
+
+Process 4963:
+Response Time: 8
+TurnAround Time: 433531349
+WaitingTime: 5627387
+
+Average Waiting Time: 6866468.500000 
+Average TurnAround Time: 295666128.250000 
+Average Response Time: 354992.000000 
